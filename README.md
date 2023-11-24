@@ -27,7 +27,6 @@
 - 10-Panel Grid
 - Speech Bubble Support
 - Download Option, Shareable Link (web share, direct link)
-- Uses Imgbb API for uploading images
 - Option for 2 Models:
   - default: Provided in the assignment
   - comic-diffusion: Added because the default one was not working or working very slow
