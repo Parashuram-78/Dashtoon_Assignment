@@ -4,7 +4,7 @@
 
 # Dashtoon Assignment
 
-- **Link:** [Dashtoon Assignment][(https://dashtoon-assignment-amresh.vercel.app/)](https://dashtoon-assignment-j9u2v6rfd-parashuram-78.vercel.app/)
+- **Link:** [Dashtoon Assignment](https://dashtoon-assignment-j9u2v6rfd-parashuram-78.vercel.app/)
 - **Name:** Ankur Shukla
 - **Email:** ankur.shukla.met19@itbhu.ac.in
 - **Roll No.:** 19144008
