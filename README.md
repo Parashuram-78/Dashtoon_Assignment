@@ -4,11 +4,11 @@
 
 # Dashtoon Assignment
 
-- **Link:** [Dashtoon Assignment](https://dashtoon-assignment-amresh.vercel.app/)
-- **Name:** Amresh Prasad Sinha
-- **Email:** s.amresh@iitg.ac.in
-- **Roll No.:** 200122009
-- **College:** IIT Guwahati
+- **Link:** [Dashtoon Assignment][(https://dashtoon-assignment-amresh.vercel.app/)](https://dashtoon-assignment-j9u2v6rfd-parashuram-78.vercel.app/)
+- **Name:** Ankur Shukla
+- **Email:** ankur.shukla.met19@itbhu.ac.in
+- **Roll No.:** 19144008
+- **College:** IIT BHU Varanasi
 
 ## Table of Contents
 
